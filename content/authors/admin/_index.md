@@ -58,25 +58,25 @@ skills:
       - name: Matlab
         description: ''
         icon: code-bracket
-      - name: ROS 2
+      - name: Arduino
         description: ''
-        icon: circle-stack
+        icon: code-bracket
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    # color: '#eeac02'
+    # color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Reading
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        # percent: 60
+        # icon: person-simple-walk
+      - name: Music
         description: ''
-        percent: 100
-        icon: cat
+        # percent: 100
+        # icon: cat
       - name: Photography
         description: ''
-        percent: 80
-        icon: camera
+        # percent: 80
+        # icon: camera
 
 # Awards.
 #   Add/remove as many awards below as you like.
