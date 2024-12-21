@@ -92,4 +92,4 @@ awards:
 
 ## About Me
 
-NOTICE: This site is currently a work in process so some information may not be accurate/left over from the template (11/8/24)
+NOTICE: This site is currently a work in process so some information may not be accurate/left over from the template (12/21/24)
