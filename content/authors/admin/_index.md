@@ -2,6 +2,10 @@
 # Display name
 title: Sam Milhaven
 
+# Full name (for SEO)
+first_name: Sam
+last_name: Milhaven
+
 # Is this the primary user of the site?
 superuser: true
 
