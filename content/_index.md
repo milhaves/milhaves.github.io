@@ -20,7 +20,7 @@ sections:
           url: uploads/Samuel Milhaven Curriculum Vitae.pdf
         - text: Download Resume
           url: uploads/Sam Milhaven (Portfolio).pdf
-      button:
+      # button:
         
       headings:
         about: ''
