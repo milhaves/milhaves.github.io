@@ -52,4 +52,11 @@ links:
   url: https://github.com/milhaves/Passenger-Venom
 - type: poster
   url: uploads/2025 IV Symposium Passenger Venom Poster.pdf
+
+image:
+  caption: 'Image credit: [**Alexander A. Brown**](uploads/Passenger_Intro_Slide.png)'
+  focal_point: ""
+  preview_only: false
+
+projects: []
 ---
