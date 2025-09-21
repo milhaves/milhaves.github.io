@@ -15,12 +15,13 @@ sections:
       username: admin
       text: ''
       # Show a call-to-action button under your biography? (optional)
+      buttons:
+        - text: Download CV
+          url: uploads/Samuel Milhaven Curriculum Vitae.pdf
+        - text: Download Resume
+          url: uploads/Sam Milhaven (Portfolio).pdf
       button:
-        text: Download CV
-        url: uploads/Samuel Milhaven Curriculum Vitae.pdf
-      button:
-        text: Download Resume
-        url: uploads/Sam Milhaven (Portfolio).pdf
+        
       headings:
         about: ''
         education: ''
