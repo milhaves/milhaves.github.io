@@ -138,7 +138,7 @@ skills:
 
 languages:
   - name: English
-    # percent: 100
+    percent: 100
   # - name: Spanish
   #   percent: 50
 
