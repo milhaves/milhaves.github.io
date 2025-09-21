@@ -114,11 +114,11 @@ skills:
       - name: Hardware
         description: 'Drive Systems, Wiring/Soldering, Rapid-prototyping/FDM printing, GD&T'
         # percent: 100
-        icon: chart-bar
+        icon: gear
       - name: Modeling
         description: 'Autodesk Fusion360, Solidworks, Webots (3D physics-based simulator), Control Systems'
         # percent: 85
-        icon: cloud
+        icon: chart-bar
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
