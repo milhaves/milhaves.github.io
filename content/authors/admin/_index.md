@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Sam Milhaven
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Samuel
+last_name: Milhaven
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,147 +23,152 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: MS Robotics (ME) student at Northeastern University
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Northeastern University
+    url: https://northeastern.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:samilhaven@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/milhaves
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/sam-milhaven/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://scholar.google.com/citations?user=YMA27XoAAAAJ&hl=en
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Field Robotics/Path Planning
+  - Autonomous Vehicles
+  - Mechatronics
+  - Hardware Design
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  # - area: PhD Computer Science (AI Focus)
+  #   institution: Stanford University
+  #   date_start: 2015-09-01
+  #   date_end: 2019-06-30
+  #   summary: |
+  #     Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+  #   button:
+  #     text: 'Read Thesis'
+  #     url: 'https://example.com/thesis.pdf'
+  - area: MS Robotics (ME Concentration)
+    institution: Northeastern University
+    date_start: 2024-09-01
+    date_end: 2026-04-28
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+      GPA: 3.92/4.0
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+      Pursuing research with the Silicon Synapse Lab. Supervised by Prof. Alireza Ramezani.
+  - area: BS Integrative Engineering (Robotics)
+    institution: Lafayette College
+    date_start: 2020-08-25
+    date_end: 2024-05-16
     summary: |
-      GPA: 3.9/4.0
+      GPA: 3.4/4.0
 
-      Minored in Mathematics. President of AI Club.
+      Honors Thesis on _Autonomous Motorcycle Stabilization on Uneven Terrain_. Supervised by Prof. Alexander Brown.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Silicon Synapse Lab Research Assistant
+    company_name: Northeastern University Silicon Synapse Lab
+    company_url: 'https://siliconsynapse.sites.northeastern.edu/'
     company_logo: ''
-    date_start: 2020-01-01
+    date_start: 2024-11-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Modeled and 3D printed mounting solutions for critical hardware and electronic systems for the Husky quadruped robot, including batteries, Nvidia Jetson, flight controller, and electronic speed controllers. Used SolidWorks to design and prototype a passive grasping foot for the Husky quadruped robot to traverse narrow paths.
+  - position: Robotics R&D Intern
+    company_name: HITT Contracting Inc.
+    company_url: 'https://hitt.com/'
     company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2025-05-30
+    date_end: 2025-12-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Assisted in the advancement of the Virtual Superintendent project by designing and installing a custom payload for the SPOT robot, which included a 6-DOF arm that held a tablet and moved vertically to assist in telecommunication on-site. Learned about current construction processes and technologies, and ways robotics can be used to assist in and improve the construction industry.
+    position: DRIVe Lab Research Assistant
+    company_name: Lafayette College DRIVe Lab
+    company_url: 'https://sites.lafayette.edu/brownaa/'
+    company_logo: ''
+    date_start: 2023-01-01
+    date_end: '2024-05-16'
+    summary: |2-
+      Designed, built, and demonstrated a driverless, self-stabilizing, electric mini-motorcycle to validate the dynamic accuracy of the Webots simulation software. Designed the steering motor mount for manufacturing, programmed the steering Arduino FSM, designed and soldered the steering interface circuit board, and designed and wired the 24V tractive system and 5V control system on the bike, including multiple safety-critical systems.
+  - position: Robotics R&D Intern
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
+      - name: Programming
+        description: 'Python, ROS 2, Arduino, Matlab, Simulink, and Java'
+        # percent: 95
         icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
+      - name: Hardware
+        description: 'Drive Systems, Wiring/Soldering, Rapid-prototyping/FDM printing, GD&T'
+        # percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
+      - name: Modeling
+        description: 'Autodesk Fusion360, Solidworks, Webots (3D physics-based simulator), Control Systems'
+        # percent: 85
         icon: cloud
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Running
         description: ''
-        percent: 80
+        # percent: 80
         icon: person-simple-walk
-      - name: Building Custom PCs
+      - name: Photography
         description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
+        # percent: 90
+        icon: camera
+      - name: Reading
         description: ''
-        percent: 70
+        # percent: 70
         icon: book-open
 
 languages:
   - name: English
-    percent: 100
-  - name: Spanish
-    percent: 50
+    # percent: 100
+  # - name: Spanish
+  #   percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
+  - title: Honors in Integrative Engineering
+    # url: https://neurips.cc/
+    date: '2024-05-16'
+    awarder: Lafayette College
     icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
+    # summary: |
+    #   Awarded for groundbreaking work on efficient training of large models.
+  - title: Daniel O'Neil Award
+    # url: https://www.nsf.gov/
+    date: '2023-09-30'
+    awarder: Lafayette College Department of Engineering
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Undergraduate honors thesis funding award.
+  # - title: Outstanding PhD Thesis
+  #   url: https://www.stanford.edu/
+  #   date: '2019-06-30'
+  #   awarder: Stanford University
+  #   icon: hero/academic-cap
+  #   summary: |
+  #     Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am broadly interested in autonomous vehicles/mobile robotics, terrain navigation, and control systems. I have conducted research into autonomous motorcycles navigating on uneven terrain, which culminated in physical prototypes that can be used to test safety systems for human riders.
