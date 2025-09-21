@@ -30,6 +30,7 @@ sections:
         
       headings:
         about: ''
+        other: ''
         education: ''
         interests: ''
     design:
