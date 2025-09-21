@@ -37,7 +37,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am broadly interested in autonomous vehicles/mobile robotics, terrain navigation, and control systems. I have conducted research into autonomous motorcycles navigating on uneven terrain, which culminated in physical prototypes that can be used to test safety systems for human riders.
+        I am broadly interested in autonomous vehicles/mobile robotics, terrain navigation, and control systems. 
+        
+        I have conducted research into autonomous motorcycles navigating on uneven terrain, which culminated in physical prototypes that can be used to test safety systems for human riders.
     design:
       columns: '1'
   - block: collection

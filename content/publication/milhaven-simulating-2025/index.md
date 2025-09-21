@@ -42,6 +42,9 @@ tags:
 - Transportation
 - Vehicle dynamics
 - Vulnerable Road User Protection Strategies
+
+featured: true
+
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/11097506
