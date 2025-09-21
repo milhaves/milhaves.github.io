@@ -54,7 +54,7 @@ links:
   url: uploads/2025 IV Symposium Passenger Venom Poster.pdf
 
 image:
-  caption: 'Image credit: [**Alexander A. Brown**](uploads/Passenger_Intro_Slide.png)'
+  caption: 'Image credit: [**Alexander A. Brown**]'
   focal_point: ""
   preview_only: false
 
