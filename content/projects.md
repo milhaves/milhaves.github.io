@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Highlighted Projects
-      text: I've had the opportunity to work on many unique projects, here are some of the highlights.
+      text: I've had the opportunity to work on and lead many unique projects. Here are some of the highlights.
       filters:
         folders:
           - project
