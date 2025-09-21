@@ -90,7 +90,7 @@ work:
     company_url: 'https://hitt.com/'
     company_logo: ''
     date_start: 2025-05-30
-    date_end: 2025-12-31
+    date_end: 2025-08-07
     summary: |
       Assisted in the advancement of the Virtual Superintendent project by designing and installing a custom payload for the SPOT robot, which included a 6-DOF arm that held a tablet and moved vertically to assist in telecommunication on-site. Learned about current construction processes and technologies, and ways robotics can be used to assist in and improve the construction industry.
   - position: DRIVe Lab Research Assistant
