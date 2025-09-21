@@ -171,4 +171,4 @@ awards:
   #     Recognized for contributions to scaling laws in deep learning.
 ---
 
-I am broadly interested in autonomous vehicles/mobile robotics, terrain navigation, and control systems. I have conducted research into autonomous motorcycles navigating on uneven terrain, which culminated in physical prototypes that can be used to test safety systems for human riders.
+I'm a graduate student at Northeastern University pursuing my MS in Robotics with a concentration in mechanical engineering. My career interests include animatronics, automotive autonomy, and field navigation.
