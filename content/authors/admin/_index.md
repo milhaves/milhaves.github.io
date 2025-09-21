@@ -119,22 +119,22 @@ skills:
         description: 'Autodesk Fusion360, Solidworks, Webots (3D physics-based simulator), Control Systems'
         # percent: 85
         icon: chart-bar
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Running
-        description: ''
-        # percent: 80
-        icon: person-simple-walk
-      - name: Photography
-        description: ''
-        # percent: 90
-        icon: camera
-      - name: Reading
-        description: ''
-        # percent: 70
-        icon: book-open
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Running
+  #       description: ''
+  #       # percent: 80
+  #       icon: person-simple-walk
+  #     - name: Photography
+  #       description: ''
+  #       # percent: 90
+  #       icon: camera
+  #     - name: Reading
+  #       description: ''
+  #       # percent: 70
+  #       icon: book-open
 
 languages:
   - name: English

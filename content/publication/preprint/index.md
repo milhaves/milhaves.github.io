@@ -31,15 +31,15 @@ featured: false
 #   ids:
 #     arxiv: 
 
-links:
-- type: code
-  url: "#"
-- type: slides
-  url: "#"
-# - type: dataset
+# links:
+# - type: code
 #   url: "#"
-- type: poster
-  url: "#"
+# - type: slides
+#   url: "#"
+# - type: dataset
+# #   url: "#"
+# - type: poster
+#   url: "#"
 # - type: source
 #   url: "#"
 # - type: video
