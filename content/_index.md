@@ -13,14 +13,20 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ''
+      # text: ''
       # Show a call-to-action button under your biography? (optional)
-      buttons:
-        - text: Download CV
-          url: uploads/Samuel Milhaven Curriculum Vitae.pdf
-        - text: Download Resume
-          url: uploads/Sam Milhaven (Portfolio).pdf
+      # buttons:
+      #   - text: Download CV
+      #     url: uploads/Samuel Milhaven Curriculum Vitae.pdf
+      #   - text: Download Resume
+      #     url: uploads/Sam Milhaven (Portfolio).pdf
       # button:
+      text: |
+        <a class="btn btn-primary mr-2" href="uploads/Samuel Milhaven Curriculum Vitae.pdf" target="_blank">Download CV</a>
+        <a class="btn btn-outline-primary" href="uploads/Sam Milhaven (Portfolio).pdf" target="_blank">Download Resume</a>
+      button:
+        text: ''
+        url: ''
         
       headings:
         about: ''
