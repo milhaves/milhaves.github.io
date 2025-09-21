@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: MS Robotics (ME) student at Northeastern University
+role: MS Robotics (ME) student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
