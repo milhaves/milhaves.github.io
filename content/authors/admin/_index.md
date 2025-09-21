@@ -93,7 +93,7 @@ work:
     date_end: 2025-12-31
     summary: |
       Assisted in the advancement of the Virtual Superintendent project by designing and installing a custom payload for the SPOT robot, which included a 6-DOF arm that held a tablet and moved vertically to assist in telecommunication on-site. Learned about current construction processes and technologies, and ways robotics can be used to assist in and improve the construction industry.
-    position: DRIVe Lab Research Assistant
+  - position: DRIVe Lab Research Assistant
     company_name: Lafayette College DRIVe Lab
     company_url: 'https://sites.lafayette.edu/brownaa/'
     company_logo: ''
@@ -101,7 +101,6 @@ work:
     date_end: '2024-05-16'
     summary: |2-
       Designed, built, and demonstrated a driverless, self-stabilizing, electric mini-motorcycle to validate the dynamic accuracy of the Webots simulation software. Designed the steering motor mount for manufacturing, programmed the steering Arduino FSM, designed and soldered the steering interface circuit board, and designed and wired the 24V tractive system and 5V control system on the bike, including multiple safety-critical systems.
-  - position: Robotics R&D Intern
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
