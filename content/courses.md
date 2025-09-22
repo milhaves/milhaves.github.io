@@ -10,18 +10,19 @@ design:
 
 # Page sections
 sections:
-  - block: northeastern-courses
+  - block: collection
     content:
-      username: admin
+      title: Relevant Coursework
+      text: These are a selection of relevant courses I have taken at Lafayette College and Northeastern University.
+      filters:
+        folders:
+          - courses
     design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-    #   is_education_first: false
-  - block: lafayette-courses
-    content:
-    #   title:
-      username: admin
-    design:
-    #   show_skill_percentage: false
+      view: article-grid
+      fill_image: false
+      columns: 3
+      show_date: false
+      show_read_time: false
+      show_read_more: false
 ---
+
