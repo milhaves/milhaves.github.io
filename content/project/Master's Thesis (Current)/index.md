@@ -10,6 +10,6 @@ tags:
   - Bio-inspired
 ---
 
-I'm currently working on a passively-grasping foot for the Husky Carbon quadruped platform that will allow it traverse narrow paths such as pipes. More pictures and information to come.
+I'm currently working on a passively-grasping foot for the Silicon Synapse Lab's quadruped platform, Husky Carbon, that will allow it traverse narrow paths such as pipes. More pictures and information to come.
 
 <!--more-->
