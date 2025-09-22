@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: 'Courses'
 date: 2025-09-21
 type: landing
 
@@ -10,26 +10,18 @@ design:
 
 # Page sections
 sections:
-  - block: resume-experience
+  - block: northeastern-courses
     content:
       username: admin
     design:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
-      is_education_first: false
-  - block: resume-skills
+    #   is_education_first: false
+  - block: lafayette-courses
     content:
-      title: Skills
+    #   title:
       username: admin
     design:
-      show_skill_percentage: false
-  - block: resume-awards
-    content:
-      title: Awards
-      username: admin
-  # - block: resume-languages
-  #   content:
-  #     title: Languages
-  #     username: admin
+    #   show_skill_percentage: false
 ---
